@@ -1,0 +1,45 @@
+body {
+  background-color: red;
+  text-align: center;
+}
+a{
+  text-align: center;
+}
+p{
+  font-family: 'Arial', 'Times New Roman', 'Lucida Grande', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+
+.links{
+  float:left;
+}
+
+
+a:visited{
+  color:yellowgreen;
+}
+
+a{
+  color: white;
+}
+
+a:hover{
+  color: white;
+}
+
+
+
+
+
+.slika{
+  width: 800px;
+  height:400px;
+}
+table{
+  margin: 0px auto;
+}
+form{
+  border-color: white;
+}
